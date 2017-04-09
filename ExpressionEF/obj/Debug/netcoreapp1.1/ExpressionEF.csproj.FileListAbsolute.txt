@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\bin\Debug\netcoreapp1.1\ExpressionEF.deps.json
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\bin\Debug\netcoreapp1.1\ExpressionEF.runtimeconfig.json
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\bin\Debug\netcoreapp1.1\ExpressionEF.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\bin\Debug\netcoreapp1.1\ExpressionEF.dll
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\bin\Debug\netcoreapp1.1\ExpressionEF.pdb
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\obj\Debug\netcoreapp1.1\ExpressionEF.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\obj\Debug\netcoreapp1.1\ExpressionEF.AssemblyInfo.cs
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\obj\Debug\netcoreapp1.1\ExpressionEF.dll
+\\Mac\Home\Desktop\Projects\ExpressionTree\ExpressionEF\obj\Debug\netcoreapp1.1\ExpressionEF.pdb
